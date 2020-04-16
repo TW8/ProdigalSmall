@@ -5,15 +5,15 @@ This is used for a students project, a reproducible workflow for predicting smal
 
 ######################################################################################################
 
-### Prodigal v2.6.3
+### Prodigal(Small) v2.6.3
 
 
   Fast, reliable protein-coding gene prediction for prokaryotic genomes.
 
 ```bash
-prodigal -i my.genome.fna -o my.genes -a my.proteins.faa
-prodigal -i my.metagenome.fna -o my.genes -a my.proteins.faa -p meta
-prodigal -h
+prodigalsmall -i my.genome.fna -o my.genes -a my.proteins.faa
+prodigalsmall -i my.metagenome.fna -o my.genes -a my.proteins.faa -p meta
+prodigalsmall -h
 ```
 
 ### New in 2.6.3 (February 2016)
@@ -33,7 +33,7 @@ $ make install
   To see a complete list of options:
 
 ```bash
-$ prodigal -h
+$ prodigalsmall -h
 ```
 
 ### Features
