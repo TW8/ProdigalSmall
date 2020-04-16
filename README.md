@@ -5,7 +5,6 @@ This is used for a students project, a reproducible workflow for predicting smal
 
 
 
-[![Prodigal Logo](http://i57.tinypic.com/n3rygn.png)](http://prodigal.ornl.gov/)
 
   Fast, reliable protein-coding gene prediction for prokaryotic genomes.
 
