@@ -3,8 +3,7 @@
 
 This is used for a students project, a reproducible workflow for predicting small proteins. Be aware that the use of Prodigal leads to high rates of false positives when extended to include short sequences.
 
-#############################################################################################################################
-#############################################################################################################################
+##########################################################################################################
 
 ### Prodigal v2.6.3
 
